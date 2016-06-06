@@ -5,7 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "skyweb": "0.0.4",
-    "path": "0.0.1"
+    "activiti-api": "1.0.2",
+    "path": "0.12.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
